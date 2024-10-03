@@ -1,5 +1,5 @@
 ## Hi there 👋
-![trophy](https://github-profile-trophy.vercel.app/?username=Rawipas-Damdenngam&theme=tokyonight&margin-w-5&no-bg=true&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Rawipas-Damdenngam&theme=matrix&margin-w-5&no-bg=true&no-frame=true)
 
 <!--
 **Rawipas-Damdenngam/Rawipas-Damdenngam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
